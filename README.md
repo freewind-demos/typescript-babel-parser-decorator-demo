@@ -1,7 +1,7 @@
-TypeScript Babel Parser Parse to AST Demo
-=========================================
+TypeScript Babel Parser Decorator Demo
+======================================
 
-使用`@babel/parser`将一段javascript代码解析成AST树。
+decorator还是不能加到function前面。
 
 ```
 npm install
